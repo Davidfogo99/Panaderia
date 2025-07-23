@@ -24,7 +24,7 @@ venv/
 *.env
 
 # Archivos de Power BI
-*.pbix
+
 
 # Archivos temporales de sistema operativo
 .DS_Store
