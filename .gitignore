@@ -1,0 +1,42 @@
+# --- Carpeta con datos, artefactos y experimentos ---
+data/
+mlartifacts/
+mlruns/
+mlflow.db
+prueba.py
+variables.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de Power BI
+*.pbix
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log o salidas temporales
+*.log
+
+# Archivos de salida que se pueden regenerar
+*.csv
+*.xlsx
+
+# Carpetas ocultas de configuración
+.idea/
+.vscode/
