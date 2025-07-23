@@ -12,7 +12,7 @@ Realizar una predicción de ventas futuras para un producto específico de panad
 - `Cargar_y_Obtener_datos.ipynb`: Notebook con la carga de la base de datos y la obtención de estos.
 - `EDA.ipynb`: Notebook con EDA con los datos que nos han facilitado y como me ha salido a mi.
 - `MLOps.ipynb`: Notebook en el que desplegamos un modelo registrado en MLFlow y hacemos predicciones con este.
-- `dashboard.pbix`: Dashboard interactivo en Power BI.
+- `Dashboard_Panaderia.pbix`: Dashboard interactivo en Power BI.
 
 ## 🔍 Etapas del proyecto
 
